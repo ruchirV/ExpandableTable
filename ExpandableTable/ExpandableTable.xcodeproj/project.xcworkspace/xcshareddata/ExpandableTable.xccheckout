@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8655C9E6-3F6F-4537-8218-FFA44ECCC1A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExpandableTable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0483F0EC9A02B4E9AA33B7298217D574AF9057A1</key>
+		<string>https://github.com/ruchiryTrre/ExpandableTable.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExpandableTable/ExpandableTable.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0483F0EC9A02B4E9AA33B7298217D574AF9057A1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ruchiryTrre/ExpandableTable.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0483F0EC9A02B4E9AA33B7298217D574AF9057A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0483F0EC9A02B4E9AA33B7298217D574AF9057A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExpandableTable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
